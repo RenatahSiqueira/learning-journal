@@ -19,7 +19,7 @@ Aqui registro minha evolução durante os estudos em programação.
 | Curso | Status |
 |--------|--------|
 | Introduction to GitHub | ✅ |
-| Review Pull Requests | ⏳ |
+| Review Pull Requests | ✅ |
 | Resolve Merge Conflicts | ⏳ |
 
 ---
