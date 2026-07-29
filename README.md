@@ -20,7 +20,10 @@ Aqui registro minha evolução durante os estudos em programação.
 |--------|--------|
 | Introduction to GitHub | ✅ |
 | Review Pull Requests | ✅ |
-| Resolve Merge Conflicts | ⏳ |
+| Resolve Merge Conflicts | ✅ |
+| Communicate using Markdown | ⏳ |
+|  GitHub Pages | ⏳ |
+
 
 ---
 
