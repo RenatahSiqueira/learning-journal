@@ -23,17 +23,41 @@ Aqui registro minha evolução durante os estudos em programação.
 | Resolve Merge Conflicts | ✅ |
 | Communicate using Markdown | ✅ |
 |  GitHub Pages | ✅ |
-|  GitHub Actions | ⏳ |
 
 
 ---
 
 ## Java
 
-Em breve...
+| Estudo | Status |
+|--------|--------|
+| Introdução ao Java | ⏳ |
+| Variáveis e Tipos Primitivos | ⏳ |
+| Operadores | ⏳ |
+| Entrada de Dados (Scanner) | ⏳ |
+| Estruturas Condicionais  | ⏳ |
+| Estruturas de Repetição | ⏳ |
+| Métodos | ⏳ |
+| Arrays | ⏳ |
+| Programação Orientada a Objetos | ⏳ |
+
+## Projetos Java
+
+| Projeto | Status |
+|---------|:------:|
+| ***em breve*** | ⬜ |
+| ***em breve*** | ⬜ |
+| ***em breve*** | ⬜ |
+|  ***em breve***| ⬜ |
 
 ---
 
 ## Python
+
+Em breve...
+
+---
+
+## SQL
 
 Em breve...
