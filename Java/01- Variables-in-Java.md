@@ -1,4 +1,4 @@
-# ☕ Variáveis Java
+# ☕  Variables in Java
 
 > 📘 Java Studies Learning Journal
 
