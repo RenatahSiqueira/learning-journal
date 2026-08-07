@@ -31,7 +31,6 @@ Aqui registro minha evolução durante os estudos em programação.
 
 | Estudo | Status |
 |--------|--------|
-| Introdução ao Java | ✅ |
 | Variáveis e Tipos Primitivos | ✅ |
 | Operadores | ⏳ |
 | Entrada de Dados (Scanner) | ⏳ |
